@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="V113__add_secret_key_for_tenant_configuration" type="PLAIN_TEXT" />
+      <mapping pattern="V108__add_see_instruction_privilege" type="SQL" />
+      <mapping pattern="delete_tenant_configuration" type="SQL" />
+      <mapping pattern="create_user" type="SQL" />
+      <mapping pattern="create_tenant_configuration" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
