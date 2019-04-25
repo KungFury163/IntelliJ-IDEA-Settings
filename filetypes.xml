@@ -6,6 +6,7 @@
       <mapping pattern="delete_tenant_configuration" type="SQL" />
       <mapping pattern="create_user" type="SQL" />
       <mapping pattern="create_tenant_configuration" type="SQL" />
+      <mapping pattern="V115__add_customer_trafi_primary_key" type="SQL" />
     </extensionMap>
   </component>
 </application>
