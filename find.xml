@@ -13,5 +13,6 @@
     <mask>*.script</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
