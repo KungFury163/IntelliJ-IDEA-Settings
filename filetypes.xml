@@ -5,8 +5,8 @@
       <mapping pattern="Project Test" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="V108__add_see_instruction_privilege" type="SQL" />
       <mapping pattern="delete_tenant_configuration" type="SQL" />
       <mapping pattern="create_user" type="SQL" />
