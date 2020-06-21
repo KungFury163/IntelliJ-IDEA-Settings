@@ -12,6 +12,7 @@
       <mapping pattern="create_user" type="SQL" />
       <mapping pattern="V147__add_language_fields" type="SQL" />
       <mapping pattern="create_tenant_configuration" type="SQL" />
+      <mapping pattern="V148__add_vehicle_contract_fields" type="SQL" />
       <mapping pattern="V115__add_customer_trafi_primary_key" type="SQL" />
       <mapping pattern="V_1__init_schema" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
