@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Project Test" type="PLAIN_TEXT" />
       <mapping pattern="V113__add_secret_key_for_tenant_configuration" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
