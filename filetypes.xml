@@ -15,8 +15,8 @@
       <mapping pattern="V148__add_vehicle_contract_fields" type="SQL" />
       <mapping pattern="V147__add_language_fields" type="SQL" />
       <mapping pattern="create_user" type="SQL" />
-      <mapping pattern="V151__alter_fleet_phone_number" type="SQL" />
       <mapping pattern="V108__add_see_instruction_privilege" type="SQL" />
+      <mapping pattern="V151__alter_fleet_phone_number" type="SQL" />
       <mapping pattern="V115__add_customer_trafi_primary_key" type="SQL" />
       <mapping pattern="V150__add_is_test_user_default_value" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
