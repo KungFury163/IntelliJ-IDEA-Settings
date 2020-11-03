@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Project Test" type="PLAIN_TEXT" />
       <mapping pattern="V113__add_secret_key_for_tenant_configuration" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
@@ -14,6 +16,7 @@
       <mapping pattern="V147__add_language_fields" type="SQL" />
       <mapping pattern="create_user" type="SQL" />
       <mapping pattern="V108__add_see_instruction_privilege" type="SQL" />
+      <mapping pattern="V151__alter_fleet_phone_number" type="SQL" />
       <mapping pattern="V115__add_customer_trafi_primary_key" type="SQL" />
       <mapping pattern="V150__add_is_test_user_default_value" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
