@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.atlassian.com/schema/atlassian-scanner" />
+    <ignored-resource url="http://www.atlassian.com/schema/atlassian-scanner/2" />
+    <ignored-resource url="http://www.atlassian.com/schema/atlassian-scanner/atlassian-scanner.xsd" />
+  </component>
+</application>
