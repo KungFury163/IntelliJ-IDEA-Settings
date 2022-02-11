@@ -4,6 +4,13 @@
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="CollapseSelection" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
