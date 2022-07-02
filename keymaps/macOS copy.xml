@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+</keymap>
